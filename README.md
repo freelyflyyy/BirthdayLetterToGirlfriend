@@ -4,7 +4,7 @@ A heartfelt and interactive birthday greeting website crafted with love. This sp
 
 ## ✨ About This Project
 
-This is an enchanting web experience built with modern web technologies to create a memorable birthday surprise. Each page is carefully designed to convey warm wishes, heartfelt messages, and cherished memories. Whether you're discovering this on your special day or visiting it anytime, I hope it brings a smile to your face and warmth to your heart.
+This is an enchanting experience built with modern web technologies to create a memorable birthday surprise. Each page is carefully designed to convey warm wishes, heartfelt messages, and cherished memories. Whether you're discovering this on your special day or visiting it anytime, I hope it brings a smile to your face and warmth to your heart.
 
 ## 🎯 Live Demo
 
