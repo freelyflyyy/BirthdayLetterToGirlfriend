@@ -1,6 +1,6 @@
 # 🎂 Happy Birthday, My Love
 
-A heartfelt and interactive birthday greeting website crafted with love. This special project is dedicated to celebrating your beautiful day and expressing my deepest affection.
+Develop a simulated birthday greeting card/envelope based on native web development, with a theme style of Crayon Shin chan
 
 ## ✨ About This Project
 
